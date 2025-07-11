@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **Gen AI, LLMs, RAG, FASTAPI, LangChain Ecosystem**
 
-- 👨‍💻 All of my projects are available at [GitHub and X](GitHub and X)
+- 👨‍💻 My projects are available at GitHub and X
 
 - 📫 How to reach me **dattasoham05@gmail.com**
-
-- ⚡ Fun fact **I lived in USA for 7 years and graduated high school from there !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
